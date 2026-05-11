@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+app/models/bert_model/
+results/
+logs/
+
+.ipynb_checkpoints/
